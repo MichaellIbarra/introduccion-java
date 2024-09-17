@@ -1,0 +1,6 @@
+Definición de Funciones
+una función es un bloque de código reuitilizable, que realiza una operación en particular.
+Puede tener parámetros de entrada y también puede devolver un valor de salida.
+
+Reglas de funciones recursivas
+debe avanzar hacia un caso base, de lo contrario caemos en el ciclo infinitos

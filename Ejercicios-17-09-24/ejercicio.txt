@@ -1,0 +1,36 @@
+===========EJERCICIO 1=========
+¿Cuál de las siguientes opciones define correctamente una función en Java incluyendo buenas prácticas en el nombre de la función?
+
+1. def miFuncion(){
+       // Sentencias   
+   }
+2. miFuncion(){
+       // Sentencias   
+   }
+3. void miFuncion(){
+       // Sentencias   
+   }
+4. int mi_funcion{
+       // Sentencias   
+   } 
+
+-- decir respuesta: 
+============= EJERCICIO 2 ===========
+Hacer un ejemplo usando la función recursiva (básico)
+
+============ EJERCICIO 3 ============
+Clase Persona
+aplicar lo que se enseño!.
+1. convertir los atributos de nombre y apellido en privados
+2. Agregar un constructor con los 2 parámetros de nombre y apellido.
+3. utilizar el operador this en todos los lugares posible que lo requieran
+4. agregar los métodos get y set de cada atributo para aplicar encapsulamiento.
+
+=============== EJERCICIO 4 =========
+Clase CuentaBancaria: Crea una clase CuentaBancaria con los atributos privados titular, saldo y numeroCuenta. Implementa métodos para depositar, retirar, y consultarSaldo, haz que funcione algo básico.
+
+============= EJERCICO 5 ===========
+Clase Libro y Función de Filtrado:
+
+Implementa una clase Libro con los atributos titulo, autor, y precio.
+Agrega un método para mostrar la información del libro.

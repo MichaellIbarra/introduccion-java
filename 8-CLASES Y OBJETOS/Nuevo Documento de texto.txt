@@ -1,0 +1,15 @@
+Clases y objetos
+java es un lenguaje orientado a objetos
+un objeto es una representación de una entidad de la vida real en nuestro programa
+para crear un objeto primero necesitamos crear una clase o plantilla
+una clase representa las características en común de nuestro objetos. es una asbatracción
+
+clases y objetos
+por ejemplo si queremos construir un edificio, primeor necesitamos su plano, es decir una clase o plantilla, y partir de ese plano, podemos crear muchos edificios similares, es decir , los objetos.
+
+clase: una clase se compone de atributos y métodos
+los atributos son las caracterisiticas e nuestro obejto
+los métodos son las acciones que puede realizar nuestros obejtos
+
+
+una vez que hemos definido nuestra clase, podemos crear obejtos a estos se le llama instancias
